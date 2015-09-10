@@ -94,5 +94,5 @@ give us feedback about how to improve it!  Participate
 at your own risk.  Any injuries sustained during peer
 teaching are solely the responsibility of RailsMN.
 
-## PyLadies @ PyOhio 2015
+### PyLadies @ PyOhio 2015
 As played at the PyLadies party before [PyOhio](http://pyohio.org) 2015.
