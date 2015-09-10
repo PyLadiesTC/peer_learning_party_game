@@ -1,4 +1,4 @@
-# Welcome Pythonistas! 
+## Welcome Pythonistas! 
 
 Today we are doing things a little differently! 
 
