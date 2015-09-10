@@ -1,12 +1,10 @@
-# Peer Learning Party Game
+# Welcome Pythonistas! 
 
-Description of a techie party game to encourage casual peer learning
+Today we are doing things a little differently! 
 
-Feel free to fork!
+Please read the instructions below for our first ever...
 
-# PyLadies @ PyOhio 2015
-
-As played at the PyLadies party before [PyOhio](http://pyohio.org) 2015.
+# Peer Learning Party Game!
 
 ## Everything is optional
 
@@ -96,4 +94,6 @@ give us feedback about how to improve it!  Participate
 at your own risk.  Any injuries sustained during peer
 teaching are solely the responsibility of RailsMN.
 
+# PyLadies @ PyOhio 2015
 
+As played at the PyLadies party before [PyOhio](http://pyohio.org) 2015.
