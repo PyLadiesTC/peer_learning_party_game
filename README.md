@@ -53,10 +53,9 @@ a new "Teach Me" badge.
 Every time you teach a skill *or* learn a skill, put a
 star on your nametag.  Before you leave for the night,
 show an organizer how many stars you've earned.  We'll 
-give out two prizes: 16 GB USB
-drives in lovely, approximately-Pythonic green.  One goes 
-to the person with the most stars, and one randomly selected
-from everybody with any stars.
+give out two prizes: One goes to the person with the 
+most stars, and one randomly selectedfrom everybody 
+with any stars.
 
 If someone teaches you a skill that's on their 
 "I'll teach" tag, take a *bonus* star, too.
@@ -95,7 +94,6 @@ here are some possibilities.
 We just made this peer teaching exercise up.  Please
 give us feedback about how to improve it!  Participate
 at your own risk.  Any injuries sustained during peer
-teaching are solely the responsibility of the 
-Columbus Ruby Brigade.
+teaching are solely the responsibility of RailsMN.
 
 
